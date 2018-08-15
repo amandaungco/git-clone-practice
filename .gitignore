@@ -1,0 +1,3 @@
+# don't push secrets to github
+secrets.txt
+secret_folder
